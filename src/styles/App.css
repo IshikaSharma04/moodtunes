@@ -1,0 +1,155 @@
+/* Global Styles */
+body {
+  background: linear-gradient(135deg, #212121, #424242); /* Neutral dark gradient */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Header */
+h2 {
+  font-size: 2.5em;
+  margin: 20px 0;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* Moods section */
+.mood-section {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 20px 0;
+  padding: 10px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 25px;
+}
+
+.mood-button {
+  padding: 12px 20px;
+  background-color: #ff6f61;
+  color: white;
+  font-size: 1.2em;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.mood-button:hover {
+  background-color: #ff8a7d;
+  transform: scale(1.05);
+}
+
+/* Song list container */
+.song-list {
+  display: flex;
+  flex-direction: row; /* Makes items go left to right */
+  overflow-x: auto; /* Enables horizontal scroll */
+  scroll-behavior: smooth;
+  gap: 20px;
+  padding-bottom: 20px;
+}
+
+.song-list::-webkit-scrollbar {
+  display: none; /* Hides scrollbar on WebKit browsers */
+}
+
+
+
+/* Song card styling */
+.song-card {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 12px;
+  padding: 20px;
+  width: 220px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.song-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
+}
+
+/* Song image */
+.song-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+/* Song title and artist */
+.song-card h3 {
+  font-size: 1.4em;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+.song-card p {
+  font-size: 1em;
+  margin: 0;
+  opacity: 0.8;
+}
+
+/* Pagination styling */
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.pagination button {
+  background-color: #ff6f61;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1em;
+  transition: background-color 0.3s;
+}
+
+.pagination button:hover {
+  background-color: #ff8a7d;
+}
+
+/* Bottom Nav */
+.bottom-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 15px;
+  color: white;
+}
+
+.bottom-nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.bottom-nav a:hover {
+  color: #ff6f61;
+}
