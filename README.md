@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# 🎧 MoodTunes
 
-We have bootstrapped this project with [Create React App](https://github.com/facebook/create-react-app).
+Hey there! 👋  
+Welcome to **MoodTunes** – I have created a fun and interactive app that allows it users to stream music according to his mood. WHther you are happy or sad, miserable or romantic we have covered it all for you.
+## 🧠 What It Does
 
-## Available Scripts
+At MoodTunes We let you:
+- Choose your music exactly according to your mood. For now we have developed our algorithms for sad,happy,chill,party and romantic.
+- We provide you handpicked songs personalized for your personal likings.
+- We have given it a cool hovering effect so everytime you touch, it will lift your mood.
+- Its a multi device compatible application so enjoy it on your phone too.
 
-In the VS COde terminal, we can run:
+---
 
-### `npm start`
+## Tech Stack
+- 🧩 **React.js** – Frontend framework
+- 🎨 **CSS Modules** – For styling the app in a modular and clean way
+- 🔮 **JavaScript** – To handle all the logic
+- 🚀 **Deployed on Netlify** – One-click deploy magic
 
-This command runs the app in the development mode.\
-We can view this page on [http://localhost:3000](http://localhost:3000) in our browser
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Why I Made This
+This was a personal project to level up my React skills and ofcourse my keen interest in developing and experiencing new Technologies, and fostering new skills.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 Extra Shots
+The SIte is live at:
+Live site: [(https://resonant-pixie-abf6ca.netlify.app/)]
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📚 Future Plans (maybe?)
+- Use and link music api's and collaborate with music streaming apps to directly play music on the site.
+- Improving the user experience and design
+- Using cache data to store preferences.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🧑‍💻 Author
+Made with 💙 by Ishika SHarma  
+Feel free to connect with me or check out my other projects!
