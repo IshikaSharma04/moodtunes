@@ -3,7 +3,7 @@
 Hey there! 👋  
 Welcome to **MoodTunes** – I have created a fun and interactive app that allows it users to stream music according to his mood. WHther you are happy or sad, miserable or romantic we have covered it all for you.  
 ## 🧠 What It Does   
-  
+   
 At MoodTunes We let you:
 - Choose your music exactly according to your mood. For now we have developed our algorithms for sad,happy,chill,party and romantic.
 - We provide you handpicked songs personalized for your personal likings.
