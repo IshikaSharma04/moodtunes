@@ -1,7 +1,7 @@
 # 🎧 MoodTunes  
 
 Hey there! 👋  
-Welcome to **MoodTunes** – I have created a fun and interactive app that allows it users to stream music according to his mood. WHther you are happy or sad, miserable or romantic we have covered it all for you. 
+Welcome to **MoodTunes** – I have created a fun and interactive app that allows it users to stream music according to his mood. WHther you are happy or sad, miserable or romantic we have covered it all for you.  
 ## 🧠 What It Does  
   
 At MoodTunes We let you:
