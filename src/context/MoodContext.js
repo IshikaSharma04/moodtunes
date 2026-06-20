@@ -4,7 +4,7 @@ export const MoodContext = createContext();
 
 export const MoodProvider = ({ children }) => {
   const [mood, setMood] = useState('happy');
-  return ( 
+  return (  
     <MoodContext.Provider value={{ mood, setMood }}>
       {children}
     </MoodContext.Provider>
