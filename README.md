@@ -8,7 +8,7 @@ At MoodTunes We let you:
 - Choose your music exactly according to your mood. For now we have developed our algorithms for sad,happy,chill,party and romantic. 
 - We provide you handpicked songs personalized for your personal likings. 
 - We have given it a cool hovering effect so everytime you touch, it will lift your mood.  
-- Its a multi device compatible application so enjoy it on your phone too.
+- Its a multi device compatible application so enjoy it on your phone too. 
 
 --- 
 
