@@ -13,7 +13,7 @@ At MoodTunes We let you:
 --- 
 
 ## Tech Stack
-- 🧩 **React.js** – Frontend framework
+- 🧩 **React.js** – Frontend framework 
 - 🎨 **CSS Modules** – For styling the app in a modular and clean way
 - 🔮 **JavaScript** – To handle all the logic 
 - 🚀 **Deployed on Netlify** – One-click deploy magic
