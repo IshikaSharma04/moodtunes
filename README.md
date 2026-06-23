@@ -10,7 +10,7 @@ At MoodTunes We let you:
 - We have given it a cool hovering effect so everytime you touch, it will lift your mood. 
 - Its a multi device compatible application so enjoy it on your phone too.
 
----
+--- 
 
 ## Tech Stack
 - 🧩 **React.js** – Frontend framework
